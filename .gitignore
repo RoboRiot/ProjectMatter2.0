@@ -77,5 +77,4 @@ DerivedDataCache/*
 # Misc
 *.pak
 *.log
-*.ini
 *.bin
